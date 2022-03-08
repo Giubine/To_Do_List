@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="Title">Título</string>
+    <string name="Date">Data</string>
+    <string name="Hour">Hora</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="new_task">Criar Tarefa</string>
+    <string name="Label_tasks">Tarefas</string>
+    <string name="Description_new_task">Nova Tarefa</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+</resources>
